@@ -77,8 +77,7 @@ Java-based problem solving collection
 ---
 
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats
+---
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samikshaprathip&show_icons=true&theme=tokyonight" height="160"/>
