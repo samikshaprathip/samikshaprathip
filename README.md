@@ -160,16 +160,12 @@ Java-based problem solving collection
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=samikshaprathip&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="165"/>
+   <img src="https://streak-stats.demolab.com?user=samikshaprathip&theme=tokyonight" height="165"/>
 </p>
 
 
 
-<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikshaprathip&layout=compact&theme=tokyonight" height="165"/>
-
-</p>
 
 ## 📫 Connect With Me
 
